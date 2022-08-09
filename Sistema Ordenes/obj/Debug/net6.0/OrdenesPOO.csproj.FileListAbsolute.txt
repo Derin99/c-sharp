@@ -1,0 +1,15 @@
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\bin\Debug\net6.0\OrdenesPOO.exe
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\bin\Debug\net6.0\OrdenesPOO.deps.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\bin\Debug\net6.0\OrdenesPOO.runtimeconfig.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\bin\Debug\net6.0\OrdenesPOO.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\bin\Debug\net6.0\OrdenesPOO.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\OrdenesPOO.csproj.AssemblyReference.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\OrdenesPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\OrdenesPOO.AssemblyInfoInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\OrdenesPOO.AssemblyInfo.cs
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\OrdenesPOO.csproj.CoreCompileInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\OrdenesPOO.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\refint\OrdenesPOO.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\OrdenesPOO.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\OrdenesPOO.genruntimeconfig.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea03\OrdenesPOO\obj\Debug\net6.0\ref\OrdenesPOO.dll
