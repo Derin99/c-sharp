@@ -1,0 +1,15 @@
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\bin\Debug\net6.0\InventarioPOO.exe
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\bin\Debug\net6.0\InventarioPOO.deps.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\bin\Debug\net6.0\InventarioPOO.runtimeconfig.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\bin\Debug\net6.0\InventarioPOO.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\bin\Debug\net6.0\InventarioPOO.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\InventarioPOO.csproj.AssemblyReference.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\InventarioPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\InventarioPOO.AssemblyInfoInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\InventarioPOO.AssemblyInfo.cs
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\InventarioPOO.csproj.CoreCompileInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\InventarioPOO.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\refint\InventarioPOO.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\InventarioPOO.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\InventarioPOO.genruntimeconfig.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea02\InventarioPOO\obj\Debug\net6.0\ref\InventarioPOO.dll
