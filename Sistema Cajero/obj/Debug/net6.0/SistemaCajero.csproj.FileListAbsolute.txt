@@ -1,0 +1,30 @@
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.exe
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.deps.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.runtimeconfig.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.csproj.AssemblyReference.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.AssemblyInfoInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.AssemblyInfo.cs
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.csproj.CoreCompileInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\refint\SistemaCajero.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.genruntimeconfig.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\ref\SistemaCajero.dll
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.exe
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.deps.json
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.runtimeconfig.json
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.dll
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\bin\Debug\net6.0\SistemaCajero.pdb
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.dll
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\refint\SistemaCajero.dll
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.pdb
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\SistemaCajero.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\PROGRAMAS 123\ProyectoCajero\SistemaCajero\obj\Debug\net6.0\ref\SistemaCajero.dll
